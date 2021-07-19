@@ -1,0 +1,11 @@
+.pic {height: 300px;}
+main { background-color: black;
+color: white;}
+body {background-image: url("images/f7p1.png");}
+#wrapper { width: 60%;
+margin: auto;
+margin-top: 30px;}
+ul { list-style-image: url("images/pixelbike.png");
+color: red;
+border-image: url("images/borderimage.jpg";)}
+.specialborder { border-image: url("images/borderimage.jpg") ;}
